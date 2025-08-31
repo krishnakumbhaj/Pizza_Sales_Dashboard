@@ -90,5 +90,5 @@ To deliver an **interactive visual tool** that:
 
 ## 🙌 Author  
 👤 **Krishna Sharma**  
-- 📧 Reach me on [LinkedIn](https://linkedin.com/in/your-profile)  
+- 📧 Reach me on [LinkedIn](https://www.linkedin.com/in/krishna-sharma-92a441279/)
 - 🌐 Portfolio: *(add if you have one)*  
