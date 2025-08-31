@@ -76,7 +76,7 @@ To deliver an **interactive visual tool** that:
 
 ### Dashboard Preview  
 ![Pizza Sales Dashboard](https://github.com/krishnakumbhaj/Pizza_Sales_Dashboard/blob/main/Pizza_Sales_Dashboard.png)
-*(Replace the path above with your actual image URL or keep the image in `/images` folder of your repo.)*  
+
 
 ---
 
